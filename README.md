@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-write-a-good-readme-file%2F&psig=AOvVaw3mtua77UuTog-DGvgTrJ6F&ust=1693225034043000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC0x_fo_IADFQAAAAAdAAAAABAE)]
 
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
